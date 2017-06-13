@@ -11,6 +11,7 @@ def AND(x1, x2):
 	elif tmp > theta:
 		return 1
 
+
 print("AND")
 print(AND(0, 0))
 print(AND(1, 0))
@@ -27,6 +28,7 @@ def AND(x1, x2):
 		return 0
 	else:
 		return 1
+
 
 print("AND2")
 print(AND(0, 0))
@@ -63,9 +65,9 @@ def XOR(x1, x2):
 	y = AND(s1, s2)
 	return y
 
+
 print("XOR")
 print(XOR(0, 0))
 print(XOR(1, 0))
 print(XOR(0, 1))
 print(XOR(1, 1))
-
