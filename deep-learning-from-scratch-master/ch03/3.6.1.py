@@ -17,4 +17,3 @@ print(img.shape)
 img = img.reshape(28,28)
 print(img.shape)
 img_show(img)
-    
