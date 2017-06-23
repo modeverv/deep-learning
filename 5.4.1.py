@@ -1,3 +1,10 @@
+import sys, os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) + \
+                '/deep-learning-from-scratch-master/')
+import numpy as np
+from common.functions import softmax,cross_entropy_error
+
+
 class MulLayer:
     def __init__(self):
         self.x = None
@@ -76,7 +83,6 @@ class Relu:
 
 
 # http://nonbiri-tereka.hatenablog.com/entry/2014/06/30/134023
-import numpy as np
 class Sigmoid:
     def __init__(self):
         self.out = None
@@ -109,4 +115,19 @@ class Affine:
         self.db = np.sum(dout,axis=0)
         return dx
 
+class SoftmaxWithLoss:
+    def __init__(self):
+        self.loss = None
+        self.y = None
+        self.t = None
 
+    def forward(self,x,t):
+        self.t = t
+        self.y = softmax(x)
+        self.loss = cross_entropy_error(self.y,self.t)
+        return self.loss
+
+    def backward(self,dout=1):
+        batch_size = self.t.shape[0]
+        dx = (self.y - self.t) / batch_size
+        return dx
