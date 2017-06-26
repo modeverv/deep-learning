@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6912847d-a671-4920-96f0-e9e5d217e348" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.7.4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7.4.3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deep-learning-from-scratch-master/ch05/train_neuralnet.py" afterPath="$PROJECT_DIR$/deep-learning-from-scratch-master/ch05/train_neuralnet.py" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,31 +19,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="two_layer_net.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/two_layer_net.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="5.7.2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.7.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="912">
+              <caret line="48" column="2" lean-forward="false" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="two_layer_net.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deep-learning-from-scratch-master/ch05/two_layer_net.py">
+      <file leaf-file-name="5.4.1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.4.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-800">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="226">
+              <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep-learning-from-scratch-master/common/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7.4.3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7.4.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,21 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5.7.4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="5.7.4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.7.4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deep-learning-from-scratch-master/common/layers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2175">
-              <caret line="61" column="25" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -162,6 +161,7 @@
         <option value="$PROJECT_DIR$/5.7.2.py" />
         <option value="$PROJECT_DIR$/deep-learning-from-scratch-master/ch05/train_neuralnet.py" />
         <option value="$PROJECT_DIR$/5.7.4.py" />
+        <option value="$PROJECT_DIR$/7.4.3.py" />
       </list>
     </option>
   </component>
@@ -307,7 +307,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/seijiro/Dropbox/code/intellij/deep-learning/5.7.4.py&#10;5.&#9;FILE&#9;file:///Users/seijiro/Dropbox/code/intellij/deep-learning/5.7.4.py&#10;cross&#9;null&#9;null&#10;3.&#9;FILE&#9;file:///Users/seijiro/Dropbox/code/intellij/deep-learning/3.py&#10;2.&#9;FILE&#9;file:///Users/seijiro/Dropbox/code/intellij/deep-learning/2.py" />
+    <property name="SearchEverywhereHistoryKey" value="im2col&#9;null&#9;null&#10;util.&#9;FILE&#9;file:///Users/seijiro/Dropbox/code/intellij/deep-learning/deep-learning-from-scratch-master/common/util.py&#10;5.&#9;FILE&#9;file:///Users/seijiro/Dropbox/code/intellij/deep-learning/5.7.4.py&#10;cross&#9;null&#9;null&#10;3.&#9;FILE&#9;file:///Users/seijiro/Dropbox/code/intellij/deep-learning/3.py&#10;2.&#9;FILE&#9;file:///Users/seijiro/Dropbox/code/intellij/deep-learning/2.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -334,25 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5.7.4">
-    <configuration default="false" name="4.4.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="deep-learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.4.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.7.4.3">
     <configuration default="false" name="4.5.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -420,6 +402,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="deep-learning" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep-learning-from-scratch-master/ch05/train_neuralnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="7.4.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deep-learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.4.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -547,19 +547,19 @@
       <item index="0" class="java.lang.String" itemvalue="Python.2" />
       <item index="1" class="java.lang.String" itemvalue="Python.3" />
       <item index="2" class="java.lang.String" itemvalue="Python.1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.4.4.2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.5.2" />
-      <item index="5" class="java.lang.String" itemvalue="Python.5.4.1" />
-      <item index="6" class="java.lang.String" itemvalue="Python.5.7.4" />
-      <item index="7" class="java.lang.String" itemvalue="Python.train_neuralnet" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.5.2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5.4.1" />
+      <item index="5" class="java.lang.String" itemvalue="Python.5.7.4" />
+      <item index="6" class="java.lang.String" itemvalue="Python.train_neuralnet" />
+      <item index="7" class="java.lang.String" itemvalue="Python.7.4.3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.5.7.4" />
-        <item index="1" class="java.lang.String" itemvalue="Python.train_neuralnet" />
-        <item index="2" class="java.lang.String" itemvalue="Python.5.4.1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.4.5.2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4.4.2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.7.4.3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.5.7.4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.train_neuralnet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.5.4.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4.5.2" />
       </list>
     </recent_temporary>
   </component>
@@ -652,20 +652,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.5/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2147">
-          <caret line="113" column="55" lean-forward="false" selection-start-line="113" selection-start-column="55" selection-end-line="113" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/deep-learning-from-scratch-master/ch01/man.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -938,14 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.4.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1652">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deep-learning-from-scratch-master/dataset/mnist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -966,14 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.7.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1026,10 +996,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5.7.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="2" lean-forward="false" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.4.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep-learning-from-scratch-master/common/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5.7.4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.4.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
